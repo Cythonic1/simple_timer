@@ -11,5 +11,3 @@ git clone https://github.com/Cythonic1/simple_timer.git
 cd simple_timer
 <br>
 cargo run
-
-```
