@@ -8,6 +8,7 @@ Simple Rust GUI Based Timer With multiple themes.
 git clone https://github.com/Cythonic1/simple_timer.git
 cd simple_timer
 cargo run
+
 ```
 
 ```bash
