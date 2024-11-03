@@ -6,4 +6,6 @@
 <h4> If you would like to test it here is a quick set up </h4>
 git clone https://github.com/Cythonic1/simple_timer.git
 cd simple_timer
-```cargo run```
+```bash
+cargo run
+```
